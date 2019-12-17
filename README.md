@@ -1,2 +1,1 @@
-# project11_configuration
-Configuration files for CCOMJHC's Project 11.
+This repo is deprecrated, it has been incorporated into the top level project11 repo.
